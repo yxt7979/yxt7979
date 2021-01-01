@@ -2,10 +2,11 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=yxt7979&show_icons=true"> 
 
-- 🔭 **About:** 19-year-old student of CUC  
-- 👨‍💻 **Languages:** C++, Python.  
-- 🌱 **Hobbies:** Coding & Guitar & playing 🏓.  
-- 💬 Be free to talk me about anything [here](https://github.com/yxt7979/yxt7979/issues).
+#### About:
+- 🔭  19-year-old student of CUC  
+- 👨‍💻 C++, Python.  
+- 🌱  Coding & Guitar & playing 🏓.  
+- 💬 Be free to talk to me [here](https://github.com/yxt7979/yxt7979/issues).
 
 
 [![BLOG URL](https://img.shields.io/twitter/url?color=%23FBBC05&label=BLOG&logo=typecho&logoColor=white&style=flat-square&url=https://www.littlefisher.cn)](https://www.littlefisher.cn)
