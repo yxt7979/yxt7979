@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm [yxt7979](https://www.littlefisher.cn) 👋
 
-<!--
-**yxt7979/yxt7979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=yxt7979&show_icons=true"> 
 
-Here are some ideas to get you started:
+- 🔭 **About:** 19-year-old student of CUC  
+- 👨‍💻 **Languages:** C++, Python.  
+- 🌱 **Hobbies:** Coding & Guitar & playing 🏓.  
+- 💬 Be free to talk me about anything [here](https://github.com/yxt7979/yxt7979/issues).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![BLOG URL](https://img.shields.io/twitter/url?color=%23FBBC05&label=BLOG&logo=typecho&logoColor=white&style=flat-square&url=https://www.littlefisher.cn)](https://www.littlefisher.cn)
+[![MAIL](https://img.shields.io/static/v1?label=MAIL&message=%20&color=green2&logo=gmail&style=flat-square&logoColor=white)](mailto:3225155810@qq.com)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxt7979&layout=compact)](https://github.com/anuraghazra/github-readme-stats) --!>
